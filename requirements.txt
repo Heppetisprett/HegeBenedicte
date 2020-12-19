@@ -5,6 +5,7 @@
 Cython>=0.29.13
 wheel
 scikit-learn
+skimage
 dask[array]>=0.15.0
 cloudpickle>=0.2.1
 pandas>=0.23.0
